@@ -1,5 +1,5 @@
 USE alx_book_store;
-SELECT 
+SELECT TABLE_NAME='Books',
     COLUMN_NAME,
     COLUMN_TYPE,
     IS_NULLABLE,
